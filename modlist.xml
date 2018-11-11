@@ -1,2 +1,3 @@
 <Mods>
+  <Mod Name="Test name" Author="Test author" Description="Test description" Version="1.0" Url="Test URL" />
 </Mods>
