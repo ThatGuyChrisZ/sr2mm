@@ -2,5 +2,5 @@
   <!--<Mod Name="TestMod" Author="Jan Polak" Description="This mod doesn't do anything meanigful, just used to test the mod manager" Version="1.0" LastUpdatedField="2018-11-11T16:13:07.5991842Z" Url="https://raw.githubusercontent.com/BeefEX/sr2mm/master/Mods/TestMod.sr2-mod"></Mod>-->
   <Mod Name="Simple Engineer" Author="Jan Polak" Description="Provides basic data about you craft in the designer and during flight." Version="0.2" LastUpdatedField="2018-11-17T14:04:01.6753299Z" Url="https://raw.githubusercontent.com/BeefEX/sr2mm/master/Mods/SimpleEngineer.sr2-mod"></Mod>
   <Mod Name="Sr2_Multi" Author="Warbrine" Description="Provides basic data about you craft in the designer and during flight." Version="0.2" LastUpdatedField="2018-11-17T14:04:01.6753299Z" Url="https://raw.githubusercontent.com/ThatGuyChrisZ/sr2mm/master/Mods/SimpleEngineer.sr2-mod"></Mod>
-  <Mod name="Sr2 Multiplayer" Author="Warbrine" lastUpdated="2018-11-26T00:54:37.4935745Z" Description="" Version="0.2" Url="https://raw.githubusercontent.com/ThatGuyChrisZ/sr2mm/master/Mods/Sr2 Multiplayer.sr2-mod"></Mod>
+  
 </Mods>
